@@ -17,6 +17,7 @@
 		},
         "features": {
             "views": {
+                "enabled": true,
                 "viewLevel": "container",
                 "includeGraphConnections": true,
                 "disablePipelines": true
